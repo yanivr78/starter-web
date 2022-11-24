@@ -16,3 +16,7 @@ This is a sinmple web project, deployment can be on any web server or even local
 To contribute do this and that
 
 ## Deployment
+
+### Copyright
+
+2022 Git.Training
