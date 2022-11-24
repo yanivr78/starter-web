@@ -13,7 +13,7 @@ This is a sinmple web project, deployment can be on any web server or even local
 
 ## How to contribute
 
-To contribute do this and that and add more stuff here
+Please fork this repository and then issue Pull Requests for review.
 
 ## Deployment
 
