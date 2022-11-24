@@ -19,4 +19,4 @@ To contribute do this and that
 
 ### Copyright
 
-2022 Git.Training
+2022 Git.Training just some more text
